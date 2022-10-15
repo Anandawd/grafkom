@@ -1,0 +1,6 @@
+﻿  Demo.cpp
+D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1\vs\Lesson05\Demo.cpp(66,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1\vs\Lesson05\Demo.cpp(106,18): error C2143: syntax error: missing ')' before ','
+D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1\vs\Lesson05\Demo.cpp(106,18): error C2660: 'Demo::DrawColoredCube': function does not take 0 arguments
+D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1\vs\Lesson05\Demo.h(28,7): message : see declaration of 'Demo::DrawColoredCube'
+D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1\vs\Lesson05\Demo.cpp(106,41): error C2059: syntax error: ')'
